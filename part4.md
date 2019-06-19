@@ -157,7 +157,7 @@ datasource0 = glueContext.create_dynamic_frame.from_catalog(database = "masterdb
 datasink0 = glueContext.write_dynamic_frame.from_options(frame = datasource0, connection_type = "s3", connection_options = {"path": "s3://<YOUR BUCKET>/tenants/"}, format = "parquet", transformation_ctx = "datasink0")
 
 datasource1 = glueContext.create_dynamic_frame.from_catalog(database = "masterdb", table_name = "mysql_multitenantapp_users", transformation_ctx = "datasource1")
-datasink1 = glueContext.write_dynamic_frame.from_options(frame = datasource1, connection_type = "s3", connection_options = {"path": "s3://<YOUR BUCKET>/tenants/"}, format = "parquet", transformation_ctx = "datasink1")
+datasink1 = glueContext.write_dynamic_frame.from_options(frame = datasource1, connection_type = "s3", connection_options = {"path": "s3://<YOUR BUCKET>/users/"}, format = "parquet", transformation_ctx = "datasink1")
 
 
 job.commit()
