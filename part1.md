@@ -2,26 +2,6 @@
 
 ## Section 1: Introduction
 
-### What are we building?
-
-In this workshop, we will look at how we can build visualization with data from different sources.
-The sources that we will be looking at today are
-
-1. Static files, e.g. CSV, Excel files
-2. RDBMS datasources, e.g. MySQL, SQL Server
-3. Data produced by application, e.g. click data
-
-
-*_All_* data that we are using today is completely fictional and any similiaries are coincidential.
-
-Following are the list of services that we will look at today
-
-- https://aws.amazon.com/kinesis/data-firehose/[Kinesis Firehose]
-- https://aws.amazon.com/athena/[Athena]
-- https://aws.amazon.com/quicksight/[QuickSight]
-- https://aws.amazon.com/s3/[S3]
-- https://aws.amazon.com/glue/[Glue]
-
 ### Setting up data lake
 1. Go to [S3 console](https://s3.console.aws.amazon.com/s3/home?region=ap-southeast-1#).
 1. Click **Create bucket**
@@ -70,3 +50,4 @@ Following are the list of services that we will look at today
 
 5. Click *_Create VPC_*
 
+Once done, go to [part 2](https://github.com/RichardYeoRepo/ISVAnalytics/blob/master/part2.md)
