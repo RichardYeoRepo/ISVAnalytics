@@ -81,4 +81,4 @@ LOCATION
 8. Click on three vertical dots on the right of the table name and select *_Preview table_*. Your result should look like below.
 9. If you are familiar with SQL, try querying data.
 
-Once done, go to [part 4](https://github.com/RichardYeoRepo/ISVAnalytics/blob/master/part4.md)
+Once done, go to [part 4](https://github.com/RichardYeoRepo/ISVAnalytics/blob/master/part4)
