@@ -56,4 +56,4 @@
 21. Click *_Finish_*.
 22. Once the crawler is done, you can use Athena to review the data.
 
-Once done, go to [part 6](https://github.com/RichardYeoRepo/ISVAnalytics/blob/master/part6.md)
+Once done, go to [part 6](https://github.com/RichardYeoRepo/ISVAnalytics/blob/master/part6)
