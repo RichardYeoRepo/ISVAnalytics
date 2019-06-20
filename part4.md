@@ -172,4 +172,4 @@ job.commit()
 14. Click on the name of your job on the console to monitor progress.
 
 
-Once done, go to [part 5](https://github.com/RichardYeoRepo/ISVAnalytics/blob/master/part5)
+Once done, go to [part 5](https://richardyeorepo.github.io/ISVAnalytics/part5)
