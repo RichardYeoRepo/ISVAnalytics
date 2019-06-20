@@ -1,6 +1,6 @@
 # Getting started with Data Analytics on AWS
 
-## Section 2: Using SQL against data on S3
+## Section 3: Using SQL against data on S3
 
 ### Creating Glue Job
 1. Go to [Glue Job console](https://ap-southeast-1.console.aws.amazon.com/glue/home?region=ap-southeast-1#etl:tab=jobs).
@@ -81,3 +81,4 @@ LOCATION
 8. Click on three vertical dots on the right of the table name and select *_Preview table_*. Your result should look like below.
 9. If you are familiar with SQL, try querying data.
 
+Once done, go to [part 4](https://github.com/RichardYeoRepo/ISVAnalytics/blob/master/part4.md)
