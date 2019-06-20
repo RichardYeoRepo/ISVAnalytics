@@ -41,8 +41,8 @@
 13. Add *_mysql_multitenantapp_users_*
 14. Add *_mysql_multitenantapp_tenants_*
 15. You should see 3 blocks on the console, click on adjacent circles to start joining your data.
-16. rds2s3_multitenantapp_users joins with transformedapachelog on id=userid 
-17. rds2s3_multitenantapp_users joins with rds2s3_multitenantapp_tenants on tenandid=id
+16. *_rdstos3_multitenantapp_users_* joins with *_transformedapachelog_* on id=userid 
+17. *_rdstos3_multitenantapp_users_* joins with *_rdstos3_multitenantapp_tenants_* on tenandid=id
 18. You can drag around the blocks to change tables to join to.
 19. Once done, you should see a table with list of values populated.
 20. Click on *_Save & Visualize_* to start visualizing.
