@@ -50,4 +50,4 @@
 
 5. Click *_Create VPC_*
 
-Once done, go to [part 2](https://github.com/RichardYeoRepo/ISVAnalytics/part2)
+Once done, go to [part 2](https://richardyeorepo.github.io/ISVAnalytics/part2)
