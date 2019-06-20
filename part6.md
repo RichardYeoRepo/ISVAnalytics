@@ -38,8 +38,8 @@
 10. Choose *_Directly query your data_*.
 11. Click *_Edit Preview Data_*.
 12. Click *_Add data_* under the search bar
-13. Add *_mysql_multitenantapp_users_*
-14. Add *_mysql_multitenantapp_tenants_*
+13. Add *_rdstos3_multitenantapp_users_*
+14. Add *_rdstos3_multitenantapp_tenants_*
 15. You should see 3 blocks on the console, click on adjacent circles to start joining your data.
 16. *_rdstos3_multitenantapp_users_* joins with *_transformedapachelog_* on id=userid 
 17. *_rdstos3_multitenantapp_users_* joins with *_rdstos3_multitenantapp_tenants_* on tenandid=id
